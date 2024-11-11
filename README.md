@@ -20,3 +20,5 @@ Use create-react-app (CRA) to install React.
 
 #### Conclusion
 Using create-react-app (CRA) is a traditional way of installing React. Though if you want a faster front-end development experience, you can use **Vite**, **Gatsby**, **Next.js**, and so on. 
+
+##### You can access full details in:
