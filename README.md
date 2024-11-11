@@ -11,3 +11,4 @@ Because React.js is a JavaScript library, you must first install Node.js, which 
 > - When the installation is complete, open your command prompt to confirm that Node was successfully installed. In your command prompt, type **node -v** and press Enter. This command should show the current Node version installed on your PC.
 
 #### Step 2: Install React
+Use create-react-app (CRA) to install React.
