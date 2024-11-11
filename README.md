@@ -13,4 +13,5 @@ Because React.js is a JavaScript library, you must first install Node.js, which 
 #### Step 2: Install React
 Use create-react-app (CRA) to install React.
 
-> - Still in the command prompt window, navigate to the directory where you want to create your React project. To do this, type **cd [directory name]** and press Enter.
+> - Still in the command prompt window, navigate to the directory where you want to create your React project. To do this, type **cd [directory name]** and press Enter.<br>
+> - Create a folder in the **documents** directory to store your React app files. Type **mkdir [folder name]** then navigate to the newly created directory using **cd [newly created folder name]**.
