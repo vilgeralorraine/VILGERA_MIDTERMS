@@ -8,4 +8,4 @@ Because React.js is a JavaScript library, you must first install Node.js, which 
 
 > - Visit the <https://nodejs.org/en/> website. On their website, you can download either the suggested or the current version.<br>
 > - Install the Node.js version of your choice on your computer.<br>
-> - When the installation is complete, open your command prompt to confirm that Node was successfully installed. In your command prompt, type **node -v** and press Enter. This command should show the current Node version installed on your PC.
+> - When the installation is complete, open your command prompt to confirm that Node was successfully installed. In your command prompt, type *node -v* and press Enter. This command should show the current Node version installed on your PC.
