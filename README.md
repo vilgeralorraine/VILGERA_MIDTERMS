@@ -7,4 +7,4 @@ React.js is an open-source JavaScript package designed with precision by Faceboo
 Because React.js is a JavaScript library, you must first install Node.js, which is a JavaScript runtime environment that enables you to run JavaScript on the server. So, when you write React, you add JavaScript functions in your project, and Node.js runs this JavaScript code on the web page.
 
 > - Visit the <https://nodejs.org/en/> website. On their website, you can download either the suggested or the current version.<br>
-> - Visit <https://code.visualstudio.com/> then download VS Code *(Install the right version for your operating system)*.
+> - Install the Node.js version of your choice on your computer.
