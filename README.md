@@ -16,4 +16,4 @@ Use create-react-app (CRA) to install React.
 > - Still in the command prompt window, navigate to the directory where you want to create your React project. To do this, type **cd [directory name]** and press Enter.<br>
 > - Create a folder in the **documents** directory to store your React app files. Type **mkdir [folder name]** then navigate to the newly created directory using **cd [newly created folder name]**.<br>
 > - In the newly created folder directory, type in **npx create-react-app [project name of your choice]**.<br>
-> - Open the React project in your code editor by typing in **code .**.
+> - Open the React project in your code editor by typing in **code .**
