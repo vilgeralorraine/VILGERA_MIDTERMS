@@ -3,6 +3,6 @@ React.js is an open-source JavaScript package designed with precision by Faceboo
 
 ### How to Set Up React  for Future Projects
 
-#### Install VS Code
+#### 1. Install Node.js
 > - The first step is to install Visual Studio Code in your computer.<br>
 > - Visit <https://code.visualstudio.com/> then download VS Code *(Install the right version for your operating system)*.
