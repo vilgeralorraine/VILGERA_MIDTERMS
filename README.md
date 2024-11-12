@@ -23,7 +23,11 @@ Use create-react-app (CRA) to install React.
 
 ![pic 3](https://www.freecodecamp.org/news/content/images/2024/01/React-project-2-1.png)<br>
 
-> - Open the React project in your code editor by typing in **code .**
+> - Open the React project in your code editor by typing in **code .**<br>
+
+![pic 4](https://www.freecodecamp.org/news/content/images/2024/01/Welcome---reactproject---Visual-Studio-Code-1_30_2024-8_39_40-PM.png)<br>
+
+
 
 #### Other Way to Install React
 Vite is a quick and flexible modern tool designed to give a linear development experience for modern web projects. It allows you to construct React apps quickly and reliably. It also includes the same functionalities as create-react-app.<br>
