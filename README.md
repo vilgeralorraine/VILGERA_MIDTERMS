@@ -49,6 +49,8 @@ Vite is a quick and flexible modern tool designed to give a linear development e
 ![pic 10](https://www.freecodecamp.org/news/content/images/2024/02/vite.config.js---Vite_React---Visual-Studio-Code-2_2_2024-9_11_55-AM.png)<br>
 > - Hold the control button and click on your local host. This should take you to your webpage. The webpage should be displayed like this after following the steps:<br>
 
+![pic 11](https://www.freecodecamp.org/news/content/images/2024/02/vite.config.js---Vite_React---Visual-Studio-Code-2_2_2024-9_11_55-AM.png)<br>
+
 #### Conclusion
 Using create-react-app (CRA) is a traditional way of installing React. Though if you want a faster front-end development experience, you can use **Vite**, **Gatsby**, **Next.js**, and so on. 
 
