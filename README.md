@@ -39,6 +39,8 @@ Vite is a quick and flexible modern tool designed to give a linear development e
 > - Navigate to the project directory where you created the React project. To do this, type **cd [directory name]**.<br>
 > - The React files should be created and displayed on the screen as shown in the image below:<br>
 
+![pic 8](https://www.freecodecamp.org/news/content/images/2024/02/Vite_React---Visual-Studio-Code-2_2_2024-8_49_58-AM.png)<br>
+
 #### Conclusion
 Using create-react-app (CRA) is a traditional way of installing React. Though if you want a faster front-end development experience, you can use **Vite**, **Gatsby**, **Next.js**, and so on. 
 
