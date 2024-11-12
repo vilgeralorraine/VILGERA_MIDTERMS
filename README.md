@@ -18,6 +18,7 @@ Use create-react-app (CRA) to install React.
 > - In the newly created folder directory, type in **npx create-react-app [project name of your choice]**.<br>
 > - Open the React project in your code editor by typing in **code .**
 
+#### Other Way to Install React
 #### Conclusion
 Using create-react-app (CRA) is a traditional way of installing React. Though if you want a faster front-end development experience, you can use **Vite**, **Gatsby**, **Next.js**, and so on. 
 
