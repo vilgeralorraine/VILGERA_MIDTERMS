@@ -23,6 +23,8 @@ Vite is a quick and flexible modern tool designed to give a linear development e
 ***(**Note: Make sure that there is Node installed on the computer)***
 
 > - Open the newly created folder in VS Code.<br>
+
+![pic 5](e:\LORRAINE'S FILES\pics\Vite_React---Visual-Studio-Code-2_2_2024-8_10_22-AM.png)
 #### Conclusion
 Using create-react-app (CRA) is a traditional way of installing React. Though if you want a faster front-end development experience, you can use **Vite**, **Gatsby**, **Next.js**, and so on. 
 
