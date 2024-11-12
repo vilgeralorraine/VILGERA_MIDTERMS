@@ -19,8 +19,6 @@ Use create-react-app (CRA) to install React.
 > - Open the React project in your code editor by typing in **code .**
 
 #### Other Way to Install React
-Vite is a quick and flexible modern tool designed to give a linear development experience for modern web projects. It allows you to construct React apps quickly and reliably. It also includes the same functionalities as create-react-app.
-
 #### Conclusion
 Using create-react-app (CRA) is a traditional way of installing React. Though if you want a faster front-end development experience, you can use **Vite**, **Gatsby**, **Next.js**, and so on. 
 
