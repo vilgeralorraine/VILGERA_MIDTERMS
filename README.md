@@ -28,9 +28,9 @@ Vite is a quick and flexible modern tool designed to give a linear development e
 
 > - Open the terminal located between **Run** and **Help** *(see image above).*<br>
 > - Once in the terminal, run **npm create vite@latest [project name]**.<br>
-*The above command should look like these*<br>
+*The above command should look like these:*<br>
 
-
+![pic 6](https://www.freecodecamp.org/news/content/images/2024/02/Vite_React---Visual-Studio-Code-2_2_2024-8_30_00-AM.png)<br>
 #### Conclusion
 Using create-react-app (CRA) is a traditional way of installing React. Though if you want a faster front-end development experience, you can use **Vite**, **Gatsby**, **Next.js**, and so on. 
 
